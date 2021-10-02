@@ -1,0 +1,14 @@
+F:\Coding Projects\MadlibPractice\bin\Debug\netcoreapp3.1\MadlibPractice.exe
+F:\Coding Projects\MadlibPractice\bin\Debug\netcoreapp3.1\MadlibPractice.deps.json
+F:\Coding Projects\MadlibPractice\bin\Debug\netcoreapp3.1\MadlibPractice.runtimeconfig.json
+F:\Coding Projects\MadlibPractice\bin\Debug\netcoreapp3.1\MadlibPractice.runtimeconfig.dev.json
+F:\Coding Projects\MadlibPractice\bin\Debug\netcoreapp3.1\MadlibPractice.dll
+F:\Coding Projects\MadlibPractice\bin\Debug\netcoreapp3.1\MadlibPractice.pdb
+F:\Coding Projects\MadlibPractice\obj\Debug\netcoreapp3.1\MadlibPractice.csproj.AssemblyReference.cache
+F:\Coding Projects\MadlibPractice\obj\Debug\netcoreapp3.1\MadlibPractice.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coding Projects\MadlibPractice\obj\Debug\netcoreapp3.1\MadlibPractice.AssemblyInfoInputs.cache
+F:\Coding Projects\MadlibPractice\obj\Debug\netcoreapp3.1\MadlibPractice.AssemblyInfo.cs
+F:\Coding Projects\MadlibPractice\obj\Debug\netcoreapp3.1\MadlibPractice.csproj.CoreCompileInputs.cache
+F:\Coding Projects\MadlibPractice\obj\Debug\netcoreapp3.1\MadlibPractice.dll
+F:\Coding Projects\MadlibPractice\obj\Debug\netcoreapp3.1\MadlibPractice.pdb
+F:\Coding Projects\MadlibPractice\obj\Debug\netcoreapp3.1\MadlibPractice.genruntimeconfig.cache
